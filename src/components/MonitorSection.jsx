@@ -11,7 +11,7 @@ const FeatureItem = ({ icon, title, description }) => {
       </div>
       <div>
         <h3 className="font-semibold text-lg text-navy-900 mb-1">{title}</h3>
-        <p className="text-gray-600 text-sm">{description}</p>
+        <p className="text-gray-700 text-sm">{description}</p>
       </div>
     </div>
   );
